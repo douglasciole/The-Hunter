@@ -1,0 +1,592 @@
+fileFormatVersion: 2
+guid: ce18106d4a0f7da4082fd3f124b9cdb6
+timeCreated: 1518548175
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sprite-ZumbiCavaleiro_0
+    21300002: sprite-ZumbiCavaleiro_1
+    21300004: sprite-ZumbiCavaleiro_2
+    21300006: sprite-ZumbiCavaleiro_3
+    21300008: sprite-ZumbiCavaleiro_4
+    21300010: sprite-ZumbiCavaleiro_5
+    21300012: sprite-ZumbiCavaleiro_6
+    21300014: sprite-ZumbiCavaleiro_7
+    21300016: sprite-ZumbiCavaleiro_8
+    21300018: sprite-ZumbiCavaleiro_9
+    21300020: sprite-ZumbiCavaleiro_10
+    21300022: sprite-ZumbiCavaleiro_11
+    21300024: sprite-ZumbiCavaleiro_12
+    21300026: sprite-ZumbiCavaleiro_13
+    21300028: sprite-ZumbiCavaleiro_14
+    21300030: sprite-ZumbiCavaleiro_15
+    21300032: sprite-ZumbiCavaleiro_16
+    21300034: sprite-ZumbiCavaleiro_17
+    21300036: sprite-ZumbiCavaleiro_18
+    21300038: sprite-ZumbiCavaleiro_19
+    21300040: sprite-ZumbiCavaleiro_20
+    21300042: sprite-ZumbiCavaleiro_21
+    21300044: sprite-ZumbiCavaleiro_22
+    21300046: sprite-ZumbiCavaleiro_23
+    21300048: sprite-ZumbiCavaleiro_24
+    21300050: sprite-ZumbiCavaleiro_25
+    21300052: sprite-ZumbiCavaleiro_26
+    21300054: sprite-ZumbiCavaleiro_27
+    21300056: sprite-ZumbiCavaleiro_28
+    21300058: sprite-ZumbiCavaleiro_29
+    21300060: sprite-ZumbiCavaleiro_30
+    21300062: sprite-ZumbiCavaleiro_31
+    21300064: sprite-ZumbiCavaleiro_32
+    21300066: sprite-ZumbiCavaleiro_33
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite-ZumbiCavaleiro_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1456
+        width: 500
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-ZumbiCavaleiro_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1456
+        width: 500
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-ZumbiCavaleiro_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1456
+        width: 500
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-ZumbiCavaleiro_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1456
+        width: 500
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-ZumbiCavaleiro_4
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1456
+        width: 500
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-ZumbiCavaleiro_5
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1456
+        width: 500
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-ZumbiCavaleiro_6
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1456
+        width: 500
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-ZumbiCavaleiro_7
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1456
+        width: 500
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-ZumbiCavaleiro_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1092
+        width: 500
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-ZumbiCavaleiro_9
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1092
+        width: 500
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-ZumbiCavaleiro_10
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1092
+        width: 500
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-ZumbiCavaleiro_11
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1092
+        width: 500
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-ZumbiCavaleiro_12
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1092
+        width: 500
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-ZumbiCavaleiro_13
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1092
+        width: 500
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-ZumbiCavaleiro_14
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1092
+        width: 500
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-ZumbiCavaleiro_15
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1092
+        width: 500
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-ZumbiCavaleiro_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 728
+        width: 500
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-ZumbiCavaleiro_17
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 728
+        width: 500
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-ZumbiCavaleiro_18
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 728
+        width: 500
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-ZumbiCavaleiro_19
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 728
+        width: 500
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-ZumbiCavaleiro_20
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 728
+        width: 500
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-ZumbiCavaleiro_21
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 728
+        width: 500
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-ZumbiCavaleiro_22
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 728
+        width: 500
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-ZumbiCavaleiro_23
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 728
+        width: 500
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-ZumbiCavaleiro_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 500
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-ZumbiCavaleiro_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 364
+        width: 500
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-ZumbiCavaleiro_26
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 364
+        width: 500
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-ZumbiCavaleiro_27
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 364
+        width: 500
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-ZumbiCavaleiro_28
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 364
+        width: 500
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-ZumbiCavaleiro_29
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 364
+        width: 500
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-ZumbiCavaleiro_30
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 364
+        width: 500
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-ZumbiCavaleiro_31
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 364
+        width: 500
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-ZumbiCavaleiro_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 500
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-ZumbiCavaleiro_33
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 500
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Arrow
+  - Enemy
+  - Ground
+  - Item
+  - FxTemporaire
+  - leftBorder
+  - rightBorder
+  - Protection
+  - marginLeft
+  - marginRight
+  - Projetil
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Target
+  - Player
+  - Arrow
+  - Ground
+  - Dead
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Flechas
+    uniqueID: 1286083165
+    locked: 0
+  - name: Monstros
+    uniqueID: 3811229127
+    locked: 0
+  - name: Efeitos
+    uniqueID: 755656325
+    locked: 0

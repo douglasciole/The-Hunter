@@ -1,0 +1,235 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1628123600924180}
+  m_IsPrefabParent: 1
+--- !u!1 &1628123600924180
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4895170069921926}
+  - component: {fileID: 114987162515588198}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4895170069921926
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1628123600924180}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114987162515588198
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1628123600924180}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77a5280b6bb13e24dbfdcc24fe67a6d3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Music: {fileID: 24300002, guid: 754e3eeeb644fb540ba2c09540b71b7b, type: 2}
+  sounds:
+  - name: interfaceButton
+    clip: {fileID: 8300000, guid: 4c93c9b8c776b444e9636ac0c3198bbc, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: mainMenu
+    clip: {fileID: 8300000, guid: dcca292779bdb2a4b9827282e629a0fd, type: 3}
+    volume: 0.6
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: basicArrow
+    clip: {fileID: 8300000, guid: 64183703f2aed344aa0e65b339e95471, type: 3}
+    volume: 0.3
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: brustArrow
+    clip: {fileID: 8300000, guid: 772264008a60f064eb45fdc75a485059, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: heal
+    clip: {fileID: 8300000, guid: 8bb49fb1e75fd884b9082c46fa67e7d2, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: piercingArrow
+    clip: {fileID: 8300000, guid: c3492eaee48f13e4db039cea51bac2de, type: 3}
+    volume: 0.3
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: getitem
+    clip: {fileID: 8300000, guid: 378989262a8d2ca4d8bf5884d5123a10, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: chuvaDeflechasCharge
+    clip: {fileID: 8300000, guid: 66de845babb59e040b18abed819f314d, type: 3}
+    volume: 0.3
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: chuvaDeflechasShooting
+    clip: {fileID: 8300000, guid: d1ef5309cde4ec844a9c92a99d2e3843, type: 3}
+    volume: 0.6
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: shot
+    clip: {fileID: 8300000, guid: 98f50a7ab984b25408eb072765d07874, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: arrowOnGround
+    clip: {fileID: 8300000, guid: 64183703f2aed344aa0e65b339e95471, type: 3}
+    volume: 0.2
+    pitch: 3
+    loop: 0
+    source: {fileID: 0}
+  - name: hurt
+    clip: {fileID: 8300000, guid: 373f0a6f45e634a4b87f380f0122b643, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: goldenPoint
+    clip: {fileID: 8300000, guid: 7c8369c98402403408eda0f476bdc728, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: clockTick
+    clip: {fileID: 8300000, guid: cfd33383a55cf4144a02d0c827bb7995, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: itemdestroy
+    clip: {fileID: 8300000, guid: 378989262a8d2ca4d8bf5884d5123a10, type: 3}
+    volume: 0.2
+    pitch: 2
+    loop: 0
+    source: {fileID: 0}
+  - name: protection
+    clip: {fileID: 8300000, guid: 41ae8327fb8b99e4cac66c94d88bc258, type: 3}
+    volume: 0.2
+    pitch: 2
+    loop: 0
+    source: {fileID: 0}
+  - name: crystalDie
+    clip: {fileID: 8300000, guid: 8c7de0c3cbc1e914cafe8b9defc3ee3f, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: zombieDie
+    clip: {fileID: 8300000, guid: bc1d44866e1a0a04182071da488761d6, type: 3}
+    volume: 0.4
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: golemDie
+    clip: {fileID: 8300000, guid: f68dc349154f945418d22a6668f4c667, type: 3}
+    volume: 0.3
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: dragaoDie
+    clip: {fileID: 8300000, guid: c618f5b051f340e4d838eb6c1bb42884, type: 3}
+    volume: 0.3
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: cogumeloDie
+    clip: {fileID: 8300000, guid: 80fdfd8e9bbf20b419b58a0a4980e06d, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: morcegoDie
+    clip: {fileID: 8300000, guid: e5d6039436c5739429d5108b4804982a, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: fadaDie
+    clip: {fileID: 8300000, guid: 451e5c2232d90c046ba635f7206cfa27, type: 3}
+    volume: 0.3
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: enteDie
+    clip: {fileID: 8300000, guid: acd0fbb5237e094489fe8a5b08346466, type: 3}
+    volume: 0.3
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: sonar
+    clip: {fileID: 8300000, guid: 0b70dfe9ac681814c8b63235f0019a33, type: 3}
+    volume: 0.8
+    pitch: 0.8
+    loop: 0
+    source: {fileID: 0}
+  - name: eletrico
+    clip: {fileID: 8300000, guid: 6eed380d8512c884cba9216a32bcf0a4, type: 3}
+    volume: 0.3
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: pedra
+    clip: {fileID: 8300000, guid: c6f7936f39b92d540bb77813035172f4, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: vento
+    clip: {fileID: 8300000, guid: 9ee90dcd992d44b4ca7d7ec7fbd14f08, type: 3}
+    volume: 0.2
+    pitch: 2
+    loop: 0
+    source: {fileID: 0}
+  - name: agua
+    clip: {fileID: 8300000, guid: 35316de3d68cf344dbe3379e1faf1f54, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: trevas
+    clip: {fileID: 8300000, guid: 3933d13840b85794da53e4a8d2c470ac, type: 3}
+    volume: 0.5
+    pitch: 2
+    loop: 0
+    source: {fileID: 0}
