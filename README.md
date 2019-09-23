@@ -9,8 +9,7 @@ All code is MIT License, except for all third-party assets are not.
 # The-Hunter
 
 
-<img src="https://drive.google.com/file/d/1RHHQQRSfkr2d1Jbtxrk2_xSYSYzILz7p/view?usp=sharing" width="785px">
-
+<img src="https://gfycat.com/sharpsentimentaldogwoodclubgall" width="785px">
 
 Personal Weekend Project developed with John Kleiton as Graphic Designer.
 
