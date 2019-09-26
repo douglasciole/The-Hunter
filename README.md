@@ -8,8 +8,7 @@ All code is MIT License, except for all third-party assets are not.
 
 # The-Hunter
 
-
-<img src="https://i.imgur.com/0Li1jnA.gifv" width="785px">
+![](./demo/p1.gif)
 
 Personal Weekend Project developed with John Kleiton as Graphic Designer.
 
@@ -22,6 +21,8 @@ Personal Weekend Project developed with John Kleiton as Graphic Designer.
 * In this game you play as an archer trying to prevent an invasion of monsters. As the game goes stronger enemies are going to appear to chalenge you ability.
 
 * As it was a one weekend project of a team of two people it has no history, the main focus was finish a playable game from the main menu to the characters death showing all the results at the end of the game.
+
+![](./demo/p2.gif)
 
 # How to play
    - Drag and drop your finger on the screen to aim and controlle the stregth or the arrow.
